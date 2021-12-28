@@ -5,10 +5,15 @@ I'm Idris Agboola from Lagos Nigeria, I am software developer, I am a big fan of
 
 ## Skills
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- React
+- Next
+- Typescript
+- Nodejs
+- Express
+- Mongodb
+- Postgres
+- Git
 
-
-_
 
 
 
