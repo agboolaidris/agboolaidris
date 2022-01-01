@@ -7,6 +7,7 @@ I'm Idris Agboola from Lagos Nigeria, I am software developer, I am a big fan of
 
 - React
 - Next
+- Javascript
 - Typescript
 - Nodejs
 - Express
