@@ -1,7 +1,8 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/agboolaidris/agboolaidris/blob/main/resize-16648206304885985921.png?raw=true)
 ### Hi there 👋,
-I'm Idris Agboola from Lagos Nigeria, I am a software developer, I am a big fan of React, Typescript and Nodejs.
+A software engineer and fashion enthusiast residing in Lagos, Nigeria. I am highly experienced in developing secure and dynamic applications.
+I love using my skill set to simplify work for enterprises and improve the lives of people around me.
 
 ## Skills
 
