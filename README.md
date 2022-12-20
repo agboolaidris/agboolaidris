@@ -4,6 +4,8 @@
 A software engineer and fashion enthusiast residing in Lagos, Nigeria. I am highly experienced in developing secure and dynamic applications.
 I love using my skill set to simplify work for enterprises and improve the lives of people around me.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agboolaidris&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 
 - React
@@ -18,7 +20,7 @@ I love using my skill set to simplify work for enterprises and improve the lives
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agboolaidris&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
