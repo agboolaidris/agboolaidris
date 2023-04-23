@@ -9,11 +9,12 @@ I love using my skill set to simplify work for enterprises and improve the lives
 ## Skills
 
 - React
-- Next
+- Next.js
 - Javascript
 - Typescript
 - Nodejs
 - Express
+- Nest.js
 - Mongodb
 - Postgres
 - Git
